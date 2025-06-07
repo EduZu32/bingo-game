@@ -36,8 +36,9 @@ It was built as a personal learning project to practice Java programming and OOP
 
 2. Run the application:
 -  java src/Bingo
--  
+
 ---
+
 ## 📝 Notes
 -  This project was developed as a personal learning exercise for:
 

@@ -32,12 +32,12 @@ It was built as a personal learning project to practice Java programming and OOP
 ## 🏃‍♂️ How to run
 
 1. Compile the project:
+-  javac src/**/*.java
 
-javac src/**/*.java
-
----
 2. Run the application:
-
+-  java src/Bingo
+-  
+---
 ## 📝 Notes
 -  This project was developed as a personal learning exercise for:
 
